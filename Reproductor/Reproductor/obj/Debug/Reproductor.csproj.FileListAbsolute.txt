@@ -1,0 +1,9 @@
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.Menu.resources
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
