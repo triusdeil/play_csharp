@@ -101,6 +101,7 @@ namespace Reproductor
 
         private void button2_Click(object sender, EventArgs e)
         {
+            openChildForm(new Form2());
             hideSubMenu();
         }
 
@@ -119,6 +120,24 @@ namespace Reproductor
             hideSubMenu();
         }
 
-      
+        private Form activeForm = null;
+        private void openChildForm(Form ChildForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            ChildForm.TopLevel = false;
+            ChildForm.FormBorderStyle = FormBorderStyle.None;
+            ChildForm.Dock = DockStyle.Fill;
+            panelChildForm.Controls.Add(ChildForm);
+            panelChildForm.Tag = ChildForm;
+            ChildForm.BringToFront();
+            ChildForm.Show();
+
+        }
+
+        private void btnEqualizer_Click(object sender, EventArgs e)
+        {
+            openChildForm(new Form3());
+        }
     }
 }

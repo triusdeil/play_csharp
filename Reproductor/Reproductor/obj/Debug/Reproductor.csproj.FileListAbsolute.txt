@@ -7,3 +7,5 @@ C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Re
 C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
 C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.exe
 C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.Form2.resources
+C:\Users\trius\Documents\GitHub\play_csharp\Reproductor\Reproductor\obj\Debug\Reproductor.Form3.resources
